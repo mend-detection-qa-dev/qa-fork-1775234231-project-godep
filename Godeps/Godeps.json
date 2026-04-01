@@ -1,0 +1,22 @@
+{
+    "ImportPath": "github.com/example/myapp",
+    "GoVersion": "go1.10",
+    "GodepVersion": "v80",
+    "Deps": [
+        {
+            "ImportPath": "github.com/fatih/color",
+            "Comment": "v1.7.0",
+            "Rev": "1a4b8b8b8a8b8b8b8a8b8b8b8a8b8b8b8a8b8b8b"
+        },
+        {
+            "ImportPath": "github.com/mattn/go-colorable",
+            "Comment": "v0.0.9",
+            "Rev": "2a2b2b2b2a2b2b2b2a2b2b2b2a2b2b2b2a2b2b2b"
+        },
+        {
+            "ImportPath": "github.com/mattn/go-isatty",
+            "Comment": "v0.0.3",
+            "Rev": "3a3b3b3b3a3b3b3b3a3b3b3b3a3b3b3b3a3b3b3b"
+        }
+    ]
+}
